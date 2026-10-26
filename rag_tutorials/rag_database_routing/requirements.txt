@@ -1,8 +1,8 @@
-langchain==0.3.12
+langchain==1.4.6
 langchain-community==0.3.12
 langchain-core==0.3.28
 qdrant-client==1.12.1
-streamlit>=1.29.0
+streamlit>=1.66.1
 pypdf>=4.0.0
 sentence-transformers>=2.2.2
 phidata==2.7.3
